@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tmp/
+reference/
+reference-images/
+.DS_Store
+*.log
+
+# Optional local research model artifacts; not redistributed in the public source.
+public/research/age/*
+!public/research/age/README.md
